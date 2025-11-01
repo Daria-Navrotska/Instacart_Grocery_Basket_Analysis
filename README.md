@@ -18,7 +18,7 @@ By revealing these patterns, the project equips Instacart with data-driven recom
 -Orders,
 -Orders_products_prior,
 -Products,
--Departments
+-Departments.
 
 ## Folders
 
